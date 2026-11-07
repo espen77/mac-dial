@@ -1,3 +1,4 @@
 [submodule "lib/hidapi"]
 	path = lib/hidapi
-	url = https://github.com/andreasjhkarlsson/hidapi
+	url = https://github.com/espen77/hidapi.git
+	branch = macdial-kIOMainPort
